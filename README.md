@@ -1,7 +1,4 @@
-
-
-
-## QUESTION
+## Problem Statement:
 
 1.	A small airline has just purchased a computer for its new automated reservations system. You’ve been asked to program the new system. You are to write a program to assign seats on each flight of the airline’s only plane (capacity: 10 seats). <br>
 Your program should display the following menu of alternatives—Please type 1 for "First Class" and Please type 2 for "Economy". If the person types 1, your program should assign a seat in the first class section (seats 1– 5).If the person types 2, your program should assign a seat in the economy section (seats 6–10). Your program should print a boarding pass indicating the person’s seat number and whether it’s in the first class or economy section of the plane.<br> 
